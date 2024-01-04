@@ -4,7 +4,7 @@
 - 🔭 I’m currently pursuing my Bachelor's in Computer Science Engineering.
 - 🌟 I'm enthusiastic about learning new programming languages and exploring various fields within computer science.
 - 🤝 I'm eager to collaborate on projects that challenge me and allow me to apply my knowledge.
-- 
+
 ## 💻 Skills & Interests
 - Programming Languages: Java, Python, C
 - Web Technologies: HTML
