@@ -7,12 +7,12 @@
 
 ## 💻 Skills & Interests
 - Programming Languages: Java, Python, C
-- Web Technologies: HTML
+- Web Technologies: HTML,CSS,JS
 - Tools & Technologies: Git, VSCode, Linux
 - Areas of Interest: Algorithms, Data Structures
 
 ## 📚 Learning & Projects
-- 🌱  I’m currently focusing on mastering Python and diving deeper into HTML/CSS for web development projects.
+- 🌱  I’m currently focusing on mastering Python and diving deeper into JS for web development projects.
   
 
 ## 📫 Let's Connect
